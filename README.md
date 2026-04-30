@@ -2,6 +2,50 @@
   github.com/lombazz — profile README
 -->
 
+```
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,''
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+;;;;,''',,,,,,,,,''',,,,,,'',,,,,,,'''',''''''...''''''''',,,,,,,,,,''''
+;;;;,;xKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXK0kOKXXXXXXXXXXXXXXXXXXXXXX
+;;;;,lXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNWWWWWWWWWWWWWWWWWWWWWWWW
+;;;;,cXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNWWWWWWMWMWWWWWWMMWWWWWWW
+;;;;;cXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNWWWWWWWWWWWWWWWWWWMWWWWW
+;;;;;cXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNWWWMWWWWWWWWWWWWWWWWWWWW
+;;;;;cXWWWWWWWWWWWWWWWWWWWWWWWWNKKKKOKWWWWWWWWWNWWWWWWWWWWWWWWWWWWWWWWWW
+;;;;;cKWWWWWWWWWWWWWWWNXOOXNNKdodolcccoxkOO0XWWNWWWWWWWWWWWWWWWWWWWWWWWW
+;;;;;cKWWWWWWWWWWWNNKoc,''ddl;:cc:'','.':olccxOOKNWWWWWWWWWWWWWWWWWWWWWW
+;;;;;cXWWWWWWWWWWdldol:cdc;::;''',::'';;cc.''.';lkOXWWWWWWWWWWWWWWWWWWWW
+;;;;;cXWWWWWWWWWNc,;c;',:c:ol;'...,;,,,:ododc,;'':llXWWWWWWWWWWWWWWWWWWW
+;;:;;:xKXXXXXXX0oc'.,,.'',lol:'....,,'...,:dddl;:lollOKXXXXXXXXXXXXXXXXX
+:::::;,;x0KKK0kdl:;,'.....',,'',:;..;..... ...,:loc;,cxOKXXXXXXXXXXXXXXX
+::::::;lXWWWKdl,'...';;.    ..'.,....  ....'. ..;,...;d0WWWWWWWWWWWWWWWW
+::::::;lXWWOOl'....,....   .. .....       ............;0NWWWWWWWWWWWWWWW
+::::::;lXWWxx..',,,'..    ..  .......      ..       ...dWWWWWWWWWWWWWWWW
+::::::;lXWWKx....'..   .   .  ... .     .. .        ..cdNWWWWWWWWWWWWWWW
+::::::;lXWWNOcc...      ..   ':o:,..........        ..;cxkOWWWWWWWWWWWWW
+::::::;lXWWWO'.. .    .    .;oxxkxdl;..  ..            ...oWWWWWWWWWWWWW
+cc::c:;lXWWK'...   ...'.......:oxdc'..........         ,xOXWWWWWWWWWWWWW
+ccccc:;lXWWWOl'.   .:;;,,'..,;ldOkc..,:l,'..';,..     'NWWWWWWWWWWWWWWWW
+cccccc;lXWWWWWX0c. ;xdolcc:codxkOkl',:oddooddoc;,. ..';WWWWWWWWWWWWWWWWW
+cccccc:lKWWWWWWK;;::kOOOkkkOOkkkOkd;';ldxkxxdoc;;'...,oWWWWWWWWWWWWWWNNN
+cccccc:;kXNNNXXK0Ox;xOOOOOOOOOkOO0Oo;';dxkxdoc;';'.',;dNNNNNNNNNNXXXXXXX
+cccccc:lKWWWWNNNNKddkxkkOOOOOkkdloc....:dxdoc;'';'.';oNWWWWWWWWWWWWWWWWN
+cccccccoKWWWWWWWNXxxxdxkkkOOOkxc;:.....,ldoc;'.':coxONWWWWWWWWWWNWWNNNWW
+cccccccoOXNWWWWNNNKOkkxxkkOOkkkkkxooc:;;;:cc,'.';OWWWWWWWWWWWWWNNNNXNNNN
+cccccccoONWWWWWWWNWWNNOdxxxxxllcllc:;,'.':lc'...'0WWWWWWWWWWNNNNXXXXKKKK
+ccccccclOXNNNNNNNNNXXX0ddddddddolc::::;:cll,....'KNNNNNXXXXXXXXKK000O000
+ccccccclkKXXXNNNNNXK00Kkodddxxxxxxxxxxxdol;'....'0KKK0000000000000000000
+ccccccccxKXXXXNNWNX00000OxddxkkOOOkkkxdoc;'.....'0KKKKK0000KKKKK00KKKXXK
+ccccccccd0KXXKXXXXK0000KXXxlodddddddol:,.........OXXKKKKKKKKKKKKKKKKKKKK
+ccccccccd0KXKK00000000KXXX0dl;,,'''...      .....OXXXXXKK00KK0000KK00000
+ccccclc:lkO0OOOOOOOOOOOxloxxdoc,..        .......x0K0O0d,;xO0OOOOOOkkkkk
+cccccc:;,;ccccccccc::::..;;dddolc;,'.............:dkkdOx. .:::::::c:::::
+ccccc;;ldoooddxdxxo,.    .;ldddoolc;'''''.''''...;okxl,   ....';cdkkxxxx
+ccccc;;dOOOOOOxoc'.         .,:looolcc::;;;;,'......       ......';coxkO
+ccccc;;okkxdc'..                 .',,,,''....               ......''.''c
+```
+
 ### `Alessandro Lombardo` — GTM engineer, not a software one.
 
 > I don't write apps. I engineer the path from cold lead to closed deal.
