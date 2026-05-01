@@ -2,45 +2,85 @@
   github.com/lombazz — profile README
 -->
 
-<table>
-<tr>
-<td valign="top">
-<pre>
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-;;;OKKKK000KKKKKKKKKKK0kOKKKKKKKKKKK
-;;:NWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMWW
-;;:NWWWWWWWWWWWWNXXWWWWWWWWWWWWWWWWW
-;;:NWWWWWW0xlOxll;;:ddOKNWWWWWWWWWWW
-;;:NWWWWkcc;cc:..;',l:;,cxNWWWWWWWWW
-::;l0XKkc''..;,''.'..';;lccOXXXXXXXX
-:::cNXd,....  ....   ......oWWWWWWWW
-:::cNXl'...  . ..   ..    .lNWWWWWWW
-:::cNNc..  .  ,dd:....     .:0WWWWWW
-ccccNWk:..::,':ok;'c;,;'. .oWWWWWWWW
-ccc:KWNXlckkkkkkOl,oxxo;,.,OWWNNNNNN
-ccccXWWNXxxkOOOdl,.,do;';:xNWWWWWWNN
-ccclKWWWNXKxkkxddl:,;c'.oWWWWWWNNXXX
-cccl0NNNNXKOddxxdllll;..oXXKKKKK0000
-cccckXXXXK00Kddxxdo:'...lXKKKKKKKKKK
-ccccd0OOOOOkdxl;..   ...c00OckOkOkkk
-cc::loool,...;ool:''.''.,ol, ..':ood
-cc:ckxo,.      .,::;,'..      ...';o
-</pre>
-</td>
-<td valign="top">
-<pre>
-ale@gtm ──────────────────────────────
+```
+'.'''''''...............................''..............................................................................
+'.''''''''...............................'''............................................................................
+''''''''''''...''''''.......''........'..''''......'''''................................................................
+''''''''''''''''''''''''''''''..''''''''''''''''..''''''...'.....''.''..................................................
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''.'''...''''''''''..............................................
+'''''''''''.............................................................................................................
+''''''''''......'.....................'''..........'''''.....................  ................''''''''''''''''........'
+''''''''''..'lk0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK0Odox0KKKKKKKKKKKXXXXXXXXXXXXXXXXXXXXXXKKKKXX
+''''''''''.'lKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+''''''''''''oXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,''''''''''.lXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,''''''''.lXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,'.lXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,''',,,,'.lKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,'.cKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''lKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXXNNXNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''lKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkxkxdloccd0KXNNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''cKWMMMMMMMMMMMMMMMMMMMMMMWWWKkod0NNNNXx:;ldlcc:;lc:cldoddxddOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''cKWMMMMMMMMMMMMMMMMMMMMWKddc'. .:Odoo:'':c:.....'....':oddo:,cx000KNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''cKWMMMMMMMMMMMMMMMN0KXKkc'..,:;,cox:,.';;;;c:,.....  ..:o:;::;:lodxxKXNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''lKWMMMMMMMMMMMMMMMd,cldooll;cdo:,'':',..  ...,;c. ..,''ol.  ......'cdOOONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''lKWMMMMMMMMMMMMMMMo.''cc;:c'':lo:.co:;;. .. .',;.'';ccclcl:cc;.';' .;ldlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,''cKWMMMMMMMMMMMMMW0c.'..,;.. ....,ldoc'...    .','....;okkooxdl:,.'..,,::,OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+,,,,,,,,,,'';xKWWWWWWWWWWWWXxcc'......  ...':ooll:..     .,;.'.   ..',codxxxl,,:clodccx0NWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+,,,,,,,,,,,'',;:oxkOOO00000Odol;''';,.  ....,,,;,,;;.';,'. .od.        ,:,;;colldkdoc,:oOOOOOOOOO00000000000000000000000
+;,,,,,,,,,,,,'.;xKNWWWWWN0koc:;,,'.    .     ........',,'.....  ...         .'':ol;,...,ckKXWWWMMMMMMMMMMMMMWWMMMMMMMMMM
+,,;,,,,,,,;,,,'oXMMMMMWKdco,....   .,,,;.        .....'.  ..           .      .';......;:xOXMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;,,;;;,;,,,'oXMMMMW00d:'.      ..'.            .,,...             .,::'.   ....   ....xXWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;,;,;,'oXMMMMkdKl..      .,           .'     .                      ..  .     .. .OWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;;;;,'oXMMMWcOx........... .                  ....                               lKMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;;;;,'oXMMMNdkl.  ...,,...          .'.         .                               .oWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;;;;,,oXMMMWXXc      ...             .       .                                 'olOMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+;;;;;;;;;;;;;,'oXMMMMWWo;x.                        .,c.                                 .ddcXMNNMMMMMMMMMMMMMMMMMMMMMMMM
+:;;;;;;;;;;;;,'oXMMMMMWk,l.                      ,oddddl:;'.......                       ...ld,OMMMMMMMMMMMMMMMMMMMMMMMM
+:;;;;;;;;;;;;,,oXMMMMMW0,..                   .'clxkkkkkxxdl;'.                               .oMMMMMMMMMMMMMMMMMMMMMMMM
+::::;;;;;;;;;;,oXMMMMWl.                         .:oddddol:,.     .....                     ';cOMMMMMMMMMMMMMMMMMMMMMMMM
+:::::::::::;;;,lKMMMMW:.             ......''...  .':oxkdc.     ....                      :0NNWMMMMMMMMMMMMMMMMMMMMMMMMM
+:::::::::::;;;,lKMMMMMKxd,        .,'',''''..  ...;:ldO0kl. ...,ll'....   ....           'WMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+:::::::;::::;;,lXMMMMMMXOd:,;.    ,olc:,..'.  .;ccoxxxO0Oo'..';lllc:;,..,:c::,...        'WMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+::::;::::::::;,oXMMMMMMMMMWWX:.   cxxddolcccclllloxxxkOOko,..';lodxxxdxxxddl:;'''    ....,WMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+:::::::::::::;,lKWMMMMMMMMMN; ..' cOOOOOOkkxkkkOOOkkOOOOko;...,codxkkkkkxxdl:,',,     .';lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+:::::::::::::;':kNWMMMMMMMWWXolox,,kO0O000000000OOOOOOOO0ko,...:odxkkkxxxdoc;'.,,. .....:xWMMMMMMMMMMMMMMWWWWWWWWWWNNNNN
+:::::::::::::;''o0NWMMWWNNXXXXK0Ol.dkOOOO000000000OkO000K0kl,...cdkkkkxxdol;'..''.....';;dWWWWWWWWWWWWWWWNNNNNNNNNNXXXXX
+:::::::::::::;,c0WMMMMMMWWNNNWN0xlokxkOOO00000000OkOOOOOOxl,.....lxkkkxdol:'...''.....,;lNMMMMMMMMMMMMMMMMMMMMMMMMMMWWWW
+:::::::::::::;,oKMMMMMMMMMMMMMWOdokOxxkkOOOOOOOOOOkxo;',;..      'cdxxdoc:,....,'....';xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW
+::::::::::::::;oKWMMMMMMMMMMMMM0xxkkxdxkkOOOOO0OOOOxl'','.     ..':oddol;,.....,:,:ddkXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW
+::::::::::::c::oONMMMMMMMMMMMMWN0kkkkddxkkkOOOOOOOOOkxxxo;,;,''',;:cllcc;......'okWMMMMMMMMMMMMMMMMMMMMMMMMMMWWWMMMMMWWN
+::::::::::ccc::lkXWWMMMMMMMMMWWMWX0Ok0kxxkkkOOOOOOkkOOkkxdxdc:;,,,,',;;:;.......lXMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWNXX
+::::::::::ccc::oOXWMMMMMMMMMMMMMMMMMMWKxxxxkkkkxxddoc:;;;,,..'... ...:cl;.......lWMMMMMMMMMMMMMMMMMMMMMWWWWWWNNNNNNNNXXK
+::::::::::ccc::oOXWMMMMMMMMMMMMMMMMMWWNkddxxxxxxoc:;:cldolclc:,...',col:'...   .oMMMMMMMMMMMMMMMMMMMMMWWNNNNNXXXKXXXXXXX
+::::::::::ccc::lkKNWMMMMMMMMMMMWWWNNNNNOoddddddxxxxxdoc:;,''',,,,;;cllc,.      .xWWWWWWWWWWWNNNNNNWWNNXXKKKKK000000KKKKK
+::::::::::ccc::cx0XNNWWWWWWWMMWWNXXXXXXKooodododxxxxxddoooooddxdddoolc;'. ..   .dXXXXXXKKK0KKKKKKKKKKK000000000000000000
+::::::cc::ccc::cx0XNWWWWWWMMMMMMWXKKKKKKOoodddddxkkkOOOOOOOkkkkxxddlc;'....     dXXXXXXKK00KKKKKKKKKKKKKKKKKKKXXXXXXXKKK
+::::::cccccccc:cdOXNNNWWWWMMMMMMNXKKKKKKXKkooddxxkkkOO0OOOOOkkxxdoc:;'...       dNNNXXXXKKKKKKKKXXXXXXXXKKKKXXNNNNNNXXXX
+:::::c::cccccc::okKXNNNNNNWWWMWWXKKKK00KKXNXxloddxxkkkkkkkkkxxdoc;'..           oXNNXXXXXXXXXKKXXXXXXXXXXXXXXXXXNNNXXXKK
+:::::::::::c:c::okKXNNNNXXXXNNNNXKK0KKKXNNWWXoc:cloooooodoollc;'..              oNNNNNNNNNNNXXXXXXXXXXXXXXXXXXKKXXXXXXXX
+::c::cccc::ccc::oOKNNNNNXXKKKKKKKK000KXXNWWWWkdc,''',,,''''...                 .oNNNNNNNNNNXXKKXXXXXKKKKKXXXXKKKKKKKKXXX
+ccc::cccc::ccc::lx0KXXXKKK000000000000KKXXXXXOxdoc,..                          .lXXNXXXXXXK0kk0KKXKKK000KKKK0000000000KK
+cc::::::::cccc:;:oxO000OOOOO0000OOOOOOOOo;,;cxxxddoc:,.                   ......:O0KKK0OO0d.  .xO000OOOOOOOOkkkkkkkkkkOO
+::::::::::ccc:;'',:looooooooooooollllolc  .;,;ddddoolc:,...             ........'lxOOkdlo0Xl   .llllcc::::::::;:::::::::
+:::::::::c::;,'........'''''''',''...     '.'cdddddoolc:;,''..         ..........;oxO00kk0o.     ......'',;;;;,,,,;;,,;;
+:::::::::::;'.;ldddoooddxxxxxxkkxc.         ':odddddooolc:;'.................. ..;lxkOxo;.           ..;cdkkkkkxxkkkkkkk
+:::::::::::,.'cxO0OOOOO000000kl,.             .':ldooooollc:;;;;,''..''''........,;;'.                   .':oxOOO0000000
+:::::::::::,..:dkOOOOOOOkoc,.                     ..,,:clllllcc::;,,,,;,,'..                              .....,:ldO0000
+:::::::::::,..;oxxol:,'.                                  .......                                       ............,:lo
+:::::::::::;'.''..                                                                                      ................
+::::::::::;,..                                                                                                   .......
+```
+
+```
+ale@gtm ──────────────────────────────────
 
 . Name: ................... Alessandro
 . Surname: ................ Lombardo
 . Role: ................... GTM Engineer
 . Currently: .............. Building the GTM stack at Augment
 . Random facts: ........... 21, Italian, and a Muay Thai fighter
-</pre>
-</td>
-</tr>
-</table>
+```
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lombardo-/)
 [![X](https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lombazzzz)
