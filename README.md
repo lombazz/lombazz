@@ -2,53 +2,54 @@
   github.com/lombazz — profile README
 -->
 
-```
-.lXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.cXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.cKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.cKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXKK0K0KNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.cKWMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMXOdooolll:coO00O0KXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.cKWMMMMMMMMMMMMMMMMMMMMWNNx;''dK00Oo'';oc;;;;:,'';:oxxo:lkXNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-.cKWMMMMMMMMMMMMMMMMMMNK:'.....cOoc;.'c;,,'. ..   ..':lcc;;okOkOKNWMMMMMMMMMMMMMMMMMMMMMMMMM
-.cKWMMMMMMMMMMMMMM0ldOkl;'';ooc;::'......';:',......;x:..''..,:lx0KXWMMMMMMMMMMMMMMMMMMMMMMM
-.cXMMMMMMMMMMMMMMMo.,:olco;'ldl;.:l,;'  .  .,:...,;,;:,'','...  ;ckxkWMMMMMMMMMMMMMMMMMMMMMM
-.cXMMMMMMMMMMMMMMNc.'.,;'....,;:col;...    ..'....,cxkdldol;',, .,;:;OMMMMMMMMMMMMMMMMMMMMMM
-.;kNWMMMMMMMMMMNkc:'.. ..  ....:oooc'       ';..    .';clxkkd;.'::clc:k0NWMMMMMMMMMMMMMMMMMM
-'.,:lxkO000000K0doc,'..,'. .. .,,,;,,;.....  .cc        ,c;:cod:cdddd::okOO0O0O0000000000000
-,''.,xKNWWWWNKOdc:,,,'..  ..    ........,;,...'.  ..      .  .',ldc;'..,cOKXNWWWWWWWWWWWWWWW
-,,'.oNMMMMMNk:l'...    .'';.         .. ..  ..          .      .',.   .;:xOXMMMMMMMMMMMMMMMM
-,,''oNMMMMKOk:'       ...            .,'..             .;:'.   ...    ...xXWMMMMMMMMMMMMMMMM
-,,''oNMMMNoKd..      ..          ..        .                 ..       .. .kWMMMMMMMMMMMMMMMM
-,,''oNMMM0oK...........                   ...                             lKMMMMMMMMMMMMMMMM
-,,,'oNMMMXxO.   ..''..          ..                                       .oNMMMMMMMMMMMMMMMM
-;,,'oNMMMWN0..                         ..                               .dlxWMMMMMMMMMMMMMMM
-;,,'oNMMMMWX;K:                     .':oc.                              .co,KWONMMMMMMMMMMMM
-;;,'oNMMMMMN:'.                    .lxxxxxdoc:,'..                          '''KMMMMMMMMMMMM
-;;,'oNMMMMXd'                     .,cdxxxxdol:.                              .'OMMMMMMMMMMMM
-;;,'oNMMMMo                          ':lodoc,.     .'..                    :kOXMMMMMMMMMMMMM
-;;,'lXMMMM0c;.        ....'.''''. ....,lk0ko.    .:'.                    .0WMMMMMMMMMMMMMMMM
-;;,'lXMMMMMN0x'..     :c:;,....   ,,:oddk0Od' .':clc;,'...';;,...        .WMMMMMMMMMMMMMMMMM
-;;,'lNMMMMMMMMXXNl   .dxdolc:::;:ccldxxkO0ko,..';lodoooooddol:,.'.    .. 'WMMMMMMMMMMMMMMMMM
-:;,'lXMMMMMMMMMN:.....xOOOOkkxxxxxkOOkkOOOkd;...;coxkkkkkkxdl;'',.    ..,cMMMMMMMMMMMMMMMMMM
-:;,'cKWMMMMMMMMWK::lx.lO000000000000OOOO0OOkl'...:dxkkkxxxdoc,..,.  ....,dMMMMMMMMMMMMMMMMMM
-:;;''dKWMMMMWNNXXX00k;,kO000000000000OO000K0kl'..'lxkkkkxdol;...'.  ..',;dMMMMMMMWWWWWWWWWWW
-:;,'cKWMMMMMMWWWWWN0dcdkkkOO00000000OkO0OOOxo,....'oxkkxdol;'...'.  ..';cNMMMMMMMMMMMMMMMMMM
-:;,,oNMMMMMMMMMMMMWOodOkxkkOOOOOO00OOkd:'',..     .,odxdoc:'....,. ...,oNMMMMMMMMMMMMMMMMMMM
-:::;oXMMMMMMMMMMMMM0xxkxddkkOOOO000OOOd;,;,.     ..,codol:'.. ..;;;oxkXMMMMMMMMMMMMMMMMMMMMM
-::::l0NMMMMMMMMMMMMWKOOkxxxkkOOO0OO0OOOkkkdccc:;,,,;;:c::;..  ..,xNMMMMMMMMMMMMMMMMMMMMMMMMM
-::::lONWMMMMMMMMMMMMMNK0XKxxkkkOOOOkkkOOkxdddl;''.....,;;;...  ..kMMMMMMMMMMMMMMMMMMMMMMWWMW
-::::l0NMMMMMMMMMMMMMMMMMMWOdxxkkkkxdlc:;;:::;,,,'.  ..:cc;.     .OMMMMMMMMMMMMMMMMMMMMMWWWWW
-::::lONMMMMMMMMMMMMMMMMMWW0dddddxxdollollllc::,'....':ll;.      .KMMMMMMMMMMMMWWMMMMMWNNNNNX
-::::ckKNWWMMMMMMMMMWWNNNNNXdoodddddxxxxdlc;,',;ccccccllc,.      .KNWWWNNNNXXXXXXXNNNXXKKK000
-::::cxKNWWWWWWMMMMMWWNXKXXXOoodddddxxkkkxxkxxxxkxxxdolc,.       .0XXXXXKK00KKKKKKKKKKKKKKK0K
-::::cxKNWWWWWMMMMMMMWXKKKKKX0doddddxkkOO00OOOOkkxxdol:;..       .KNNNXXXXKKKKXKXXXXXXXXXXXXX
-:::::dOXNWWWWWWMMMMWNXKKKKKKXN0dodxxkkkOOOOOOkkxddl:,'.         .0NNNNXXXXXXXXXXXXXXXXXXXXXX
-:::::dOXNNWNNNNNWWWNXXKKKKKXNWMXlclloddddddddool:,..            .ONNNNNNNNNNNXXXNNNXXXXXXNNX
-:::::d0XNWWWNXXXXXXXKKKKKXXNWMMWko;'',,;;,,,,'..                 OWWWWWWWWNNXXXXNNXXXXXXXNNX
-::::;okKXNNXXKKKKKKKK000KKXXNNNNOxdl,..                          kNNNNNNNNXX00KXXXXKKKKKKKKK
-:::;,:ok00000000000000OOOOOxc::oxxxdol:,.                       .o0KXK000Kx...:O0000OOOOOOOO
-:::;,,:oxkkxxxxxkkkxxxxxxxx,  .c:ddddolc;'.                      ;dkOxdddKXc   cxxxddooooooo
-```
+<table><tr>
+<td valign="top"><pre>
+'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXXNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+'xWMMMMMMMMMMMMMMMMMMWNWMMMMXkoooolclk0O0KXNMMMMMMMMMMMMMMMMMMMMMMMMMM
+'xWMMMMMMMMMMMMMMMXko'.'Okxl',c;'..'..':ddl;o0XXNWMMMMMMMMMMMMMMMMMMMM
+'xWMMMMMMMMMMM00Kk:..;:;cl,.',',;...  ..l:',,;:ldOXWMMMMMMMMMMMMMMMMMM
+'xWMMMMMMMMMMW,,co:c';oc';:;' . .';..';,c,.,'....:ddKMMMMMMMMMMMMMMMMM
+'dWMMMMMMMMMNx'..''. ..,ldl,.    .'....:oooooc,..';c:KWMMMMMMMMMMMMMMM
+.;dOKKXXXXXXdl;...'. ..,:::;'.    .,'    .,llooc;coolcxKKXKKKKKKKKKXXX
+,'.;OXNNNXOxc:,'..  .   ......';'..'        . .';o:,..;d0KNWWWWWWWWWWW
+,,'dWMMMXd::..   .''.       ....  .       ..    .'.  .'l0NMMMMMMMMMMMM
+,,'xWMMKkd..    '..          ..           ...  .      ..xWMMMMMMMMMMMM
+,,'dWMMdk........               ..                      ,XMMMMMMMMMMMM
+,,'dWMMKO.  ....         .                             ':KMMMMMMMMMMMM
+;,'dWMMWN;d.                .';.                       ;xoMXNMMMMMMMMM
+;,'dWMMMW:;.              .:dxxxoc;'..                   .;.OMMMMMMMMM
+;;'dWMMMo.                .,lddxol;.    ..                ';OMMMMMMMMM
+;;'dWMMWc.         ......  ..;okx;    '.                ;0WWMMMMMMMMMM
+;;'dWMMMW0o..   .c:;'..   ,;ldk0k;..':lc,...,;,.        OMMMMMMMMMMMMM
+;;'dWMMMMMMMO.. 'kxxdoccllodxkOOk:..,cdxxxxxdoc,..    ..0MMMMMMMMMMMMM
+:;'oNMMMMMMMx';:.kO0O0O0000OOOOOOo'..:dxkkkxdo:'',  ...:XMMMMMMMMMMMMM
+:;';OWMMMWNNXK0k'lO000000000OO00KOo'..oxkkxxoc'... ...,cNMMMMMWWWWWWWW
+:;,oNMMMMMMWWWXdokxkOO00000Okkddd:. . 'oxxdoc,...' ..':0MMMMMMMMMMMMMM
+::;dWMMMMMMMMMXxkkxxkOOOO0OOkl.'.     .;odoc,....;.clxXMMMMMMMMMMMMMMM
+:::oXWMMMMMMMMWKOkxxxkOOOOOOOOkko:c:,,,;:c::.. ..cKMMMMMMMMMMMMMMMMMMM
+:::oKWMMMMMMMMMMWXNXdxkkOkkxxdolcc;......,;:. .  :WMMMMMMMMMMMMMMMMWWW
+:::oKWMMMMMMMMMMMMMWxddxxxdlc::lc:::,...;ll,     cMMMMMMMMMMMMMMMWWNNN
+:::lONWWMMMMMMWWNNNNOoddddxxxdoc:;,;ccccll:.     lNWNNNNNXXXXNNNXKKK00
+:::lOXWWWWMMMMMWXKKXKxodddxkkkOOkkkkkxxdl:..     lNNXXXKKKKKKKKXKKKKKK
+:::ckXNWWWWMMMMNXKKKKXKxodxkkOOOOOOkxdl:,.       cNNNXXXXXXXXXXXXXXXXX
+::::xKNWNNNNWWWXKKKKXNWWxcloddddddooc,..         cNNNNNNNNXXXNNXXXXXNX
+::::xKNWNXXKKKKKK0KXNWWWKd:'.......              :NWWWWNNXXKXNXXKKXXXX
+:::;oOKKK000000000000kdxOxdo:'.                  ;KXXXKK0c;l0KK0000000
+::;,;okkkkkkkkkkxxxxo  ':dddol:'.                'x0OxdON:  :xxxdddddo
+</pre></td>
+<td valign="top">
+<a href="https://www.hubspot.com"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/></a><br>
+<a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a><br>
+<a href="https://www.clay.com"><img src="https://img.shields.io/badge/Clay-4F46E5?style=for-the-badge&logoColor=white" alt="Clay"/></a><br>
+<a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a><br>
+<a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a><br>
+<a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a><br>
+<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP%20Servers-7C3AED?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a><br>
+<a href="https://www.firecrawl.dev"><img src="https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge&logoColor=white" alt="Firecrawl"/></a>
+</td>
+</tr></table>
 
 ```diff
 - Name: ................... Alessandro
@@ -95,13 +96,3 @@ gantt
 ```
 
 
-### `~ stack`
-
-[![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://www.hubspot.com)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
-[![Clay](https://img.shields.io/badge/Clay-4F46E5?style=for-the-badge&logoColor=white)](https://www.clay.com)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![MCP](https://img.shields.io/badge/MCP%20Servers-7C3AED?style=for-the-badge&logoColor=white)](https://modelcontextprotocol.io)
-[![Firecrawl](https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge&logoColor=white)](https://www.firecrawl.dev)
