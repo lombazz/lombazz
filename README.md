@@ -50,79 +50,58 @@
 :::;,,:oxkkxxxxxkkkxxxxxxxx,  .c:ddddolc;'.                      ;dkOxdddKXc   cxxxddooooooo
 ```
 
-```
-ale@gtm ──────────────────────────────────
-
-. Name: ................... Alessandro
-. Surname: ................ Lombardo
-. Role: ................... GTM Engineer
-. Currently: .............. Building the GTM stack at Augment
-. Random facts: ........... 21, Italian, and a Muay Thai fighter
+```diff
+- Name: ................... Alessandro
+- Surname: ................ Lombardo
+- Role: ................... GTM Engineer
+- Currently: .............. Building the GTM stack at Augment and scaled it from 100k to 2.5M monthly revenue
+- Random facts: ........... 21, Italian, Muay Thai fighter, VC Scout
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lombardo-/)
 [![X](https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lombazzzz)
-[![Profile views](https://komarev.com/ghpvc/?username=lombazz&label=PROFILE%20VIEWS&style=for-the-badge&color=2563EB)](https://github.com/lombazz)
 
 
 ### `~ by the numbers`
 
-```
-pipelines deployed     ░░░░░░░░░░  12
-automations shipped    ░░░░░░░░░░  30+
-leads enriched / month ░░░░░░░░░░  8K
-tools in stack         ░░░░░░░░░░  15+
-languages spoken       ░░░░░░░░░░  IT · FR · EN · JSON
-muay thai sessions/wk  ░░░░░░░░░░   4
+```diff
+- inbound leads managed / month   ░░░░░░░░░░  5k+
+- outbound leads managed / month  ░░░░░░░░░░  4k+
+- muay thai fights                ░░░░░░░░░░    4
+- hackathons attended             ░░░░░░░░░░   10
+- hackathons wins                 ░░░░░░░░░░    3
 ```
 
 
-### `~ a week in my head`
+### `~ a day at work`
 
 ```mermaid
-timeline
-  title A typical week shipping growth
-  Monday    : ICP refined : Clay enrichment kicked off
-  Tuesday   : 2K contacts scored : n8n routes by ICP fit
-  Wednesday : LinkedIn touches go out : HubSpot logs replies
-  Thursday  : Replies trigger Rasayel WhatsApp : intros booked
-  Friday    : Calls happen : retro : iterate the playbook
-```
+gantt
+  title A day at work
+  dateFormat HH:mm
+  axisFormat %H:%M
 
+  section Morning
+    Lead data tracking      :09:00, 90m
+    Data reporting          :10:30, 120m
 
-### `~ the pipeline I run`
+  section Lunch
+    Lunch break             :crit, 12:30, 60m
 
-```mermaid
-flowchart LR
-    A[ICP] --> B[Clay enrichment]
-    B --> C{n8n router}
-    C --> D[HubSpot CRM]
-    C --> E[LinkedIn outreach]
-    C --> F[Rasayel WhatsApp]
-    D --> G[Sequenced touches]
-    E --> G
-    F --> G
-    G --> H((Closed-won))
-
-    classDef src fill:#1f2937,stroke:#10B981,color:#fff
-    classDef tool fill:#111827,stroke:#2563EB,color:#fff
-    classDef end_ fill:#10B981,stroke:#fff,color:#000
-    class A src
-    class B,C,D,E,F,G tool
-    class H end_
+  section Afternoon
+    Automation maintenance  :13:30, 120m
+    Pipeline optimisation   :15:30, 150m
+    CRM maintenance         :18:00, 120m
 ```
 
 
 ### `~ stack`
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Clay](https://img.shields.io/badge/Clay-4F46E5?style=for-the-badge&logoColor=white)
-![Rasayel](https://img.shields.io/badge/Rasayel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20Servers-7C3AED?style=for-the-badge&logoColor=white)
-
-
-<sub>From Italy, with caffeine and impatience. Currently shipping from Paris.</sub>
+[![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://www.hubspot.com)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![Clay](https://img.shields.io/badge/Clay-4F46E5?style=for-the-badge&logoColor=white)](https://www.clay.com)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![MCP](https://img.shields.io/badge/MCP%20Servers-7C3AED?style=for-the-badge&logoColor=white)](https://modelcontextprotocol.io)
+[![Firecrawl](https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge&logoColor=white)](https://www.firecrawl.dev)
