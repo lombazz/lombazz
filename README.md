@@ -61,29 +61,30 @@
 </td>
 </tr></table>
 
-### `~ about me`
-
-```
-. Name: ................... Alessandro
-. Surname: ................ Lombardo
-. Role: ................... GTM Engineer
-. Currently: .............. Building the GTM stack at Augment and scaled it from 100k to 2.5M monthly revenue
-. Random facts: ........... 21, Italian, Muay Thai fighter, VC Scout
-```
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lombardo-/)
 [![X](https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lombazzzz)
 
 
+### `~ about me`
+
+<table>
+<tr><td>$\color{red}{\text{Name}}$</td><td>░░░░░░░░░░</td><td>Alessandro</td></tr>
+<tr><td>$\color{red}{\text{Surname}}$</td><td>░░░░░░░░░░</td><td>Lombardo</td></tr>
+<tr><td>$\color{red}{\text{Role}}$</td><td>░░░░░░░░░░</td><td>GTM Engineer</td></tr>
+<tr><td>$\color{red}{\text{Currently}}$</td><td>░░░░░░░░░░</td><td>Building the GTM stack at Augment and scaled it from 100k to 2.5M monthly revenue</td></tr>
+<tr><td>$\color{red}{\text{Random facts}}$</td><td>░░░░░░░░░░</td><td>21, Italian, Muay Thai fighter, VC Scout</td></tr>
+</table>
+
+
 ### `~ by the numbers`
 
-```
-inbound leads managed / month   ░░░░░░░░░░  5k+
-outbound leads managed / month  ░░░░░░░░░░  4k+
-muay thai fights                ░░░░░░░░░░    4
-hackathons attended             ░░░░░░░░░░   10
-hackathons wins                 ░░░░░░░░░░    3
-```
+<table>
+<tr><td>$\color{red}{\text{inbound leads managed / month}}$</td><td>░░░░░░░░░░</td><td>5k+</td></tr>
+<tr><td>$\color{red}{\text{outbound leads managed / month}}$</td><td>░░░░░░░░░░</td><td>4k+</td></tr>
+<tr><td>$\color{red}{\text{muay thai fights}}$</td><td>░░░░░░░░░░</td><td>4</td></tr>
+<tr><td>$\color{red}{\text{hackathons attended}}$</td><td>░░░░░░░░░░</td><td>10</td></tr>
+<tr><td>$\color{red}{\text{hackathons wins}}$</td><td>░░░░░░░░░░</td><td>3</td></tr>
+</table>
 
 
 ### `~ a day at work`
