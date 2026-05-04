@@ -40,8 +40,9 @@
 ::;,;okkkkkkkkkkxxxxo  ':dddol:'.                'x0OxdON:  :xxxdddddo
 </pre></td>
 <td valign="top">
-<img src="https://img.shields.io/badge/~%20my%20stack-DC2626?style=for-the-badge" alt="~ my stack"/>
-<br><br>
+
+### `~ my stack`
+
 <a href="https://www.hubspot.com"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/></a>
 <br><br>
 <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
@@ -60,7 +61,7 @@
 </td>
 </tr></table>
 
-![~ about me](https://img.shields.io/badge/~%20about%20me-DC2626?style=for-the-badge)
+### `~ about me`
 
 ```
 . Name: ................... Alessandro
@@ -74,7 +75,7 @@
 [![X](https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lombazzzz)
 
 
-![~ by the numbers](https://img.shields.io/badge/~%20by%20the%20numbers-DC2626?style=for-the-badge)
+### `~ by the numbers`
 
 ```
 inbound leads managed / month   ░░░░░░░░░░  5k+
