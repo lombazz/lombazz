@@ -6,7 +6,7 @@
 <td valign="top">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
-  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="560">
+  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="700">
 </picture>
 </td>
 <td valign="top">
