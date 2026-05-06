@@ -3,42 +3,12 @@
 -->
 
 <table><tr>
-<td valign="top"><pre>
-'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-'xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXXNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-'xWMMMMMMMMMMMMMMMMMMWNWMMMMXkoooolclk0O0KXNMMMMMMMMMMMMMMMMMMMMMMMMMM
-'xWMMMMMMMMMMMMMMMXko'.'Okxl',c;'..'..':ddl;o0XXNWMMMMMMMMMMMMMMMMMMMM
-'xWMMMMMMMMMMM00Kk:..;:;cl,.',',;...  ..l:',,;:ldOXWMMMMMMMMMMMMMMMMMM
-'xWMMMMMMMMMMW,,co:c';oc';:;' . .';..';,c,.,'....:ddKMMMMMMMMMMMMMMMMM
-'dWMMMMMMMMMNx'..''. ..,ldl,.    .'....:oooooc,..';c:KWMMMMMMMMMMMMMMM
-.;dOKKXXXXXXdl;...'. ..,:::;'.    .,'    .,llooc;coolcxKKXKKKKKKKKKXXX
-,'.;OXNNNXOxc:,'..  .   ......';'..'        . .';o:,..;d0KNWWWWWWWWWWW
-,,'dWMMMXd::..   .''.       ....  .       ..    .'.  .'l0NMMMMMMMMMMMM
-,,'xWMMKkd..    '..          ..           ...  .      ..xWMMMMMMMMMMMM
-,,'dWMMdk........               ..                      ,XMMMMMMMMMMMM
-,,'dWMMKO.  ....         .                             ':KMMMMMMMMMMMM
-;,'dWMMWN;d.                .';.                       ;xoMXNMMMMMMMMM
-;,'dWMMMW:;.              .:dxxxoc;'..                   .;.OMMMMMMMMM
-;;'dWMMMo.                .,lddxol;.    ..                ';OMMMMMMMMM
-;;'dWMMWc.         ......  ..;okx;    '.                ;0WWMMMMMMMMMM
-;;'dWMMMW0o..   .c:;'..   ,;ldk0k;..':lc,...,;,.        OMMMMMMMMMMMMM
-;;'dWMMMMMMMO.. 'kxxdoccllodxkOOk:..,cdxxxxxdoc,..    ..0MMMMMMMMMMMMM
-:;'oNMMMMMMMx';:.kO0O0O0000OOOOOOo'..:dxkkkxdo:'',  ...:XMMMMMMMMMMMMM
-:;';OWMMMWNNXK0k'lO000000000OO00KOo'..oxkkxxoc'... ...,cNMMMMMWWWWWWWW
-:;,oNMMMMMMWWWXdokxkOO00000Okkddd:. . 'oxxdoc,...' ..':0MMMMMMMMMMMMMM
-::;dWMMMMMMMMMXxkkxxkOOOO0OOkl.'.     .;odoc,....;.clxXMMMMMMMMMMMMMMM
-:::oXWMMMMMMMMWKOkxxxkOOOOOOOOkko:c:,,,;:c::.. ..cKMMMMMMMMMMMMMMMMMMM
-:::oKWMMMMMMMMMMWXNXdxkkOkkxxdolcc;......,;:. .  :WMMMMMMMMMMMMMMMMWWW
-:::oKWMMMMMMMMMMMMMWxddxxxdlc::lc:::,...;ll,     cMMMMMMMMMMMMMMMWWNNN
-:::lONWWMMMMMMWWNNNNOoddddxxxdoc:;,;ccccll:.     lNWNNNNNXXXXNNNXKKK00
-:::lOXWWWWMMMMMWXKKXKxodddxkkkOOkkkkkxxdl:..     lNNXXXKKKKKKKKXKKKKKK
-:::ckXNWWWWMMMMNXKKKKXKxodxkkOOOOOOkxdl:,.       cNNNXXXXXXXXXXXXXXXXX
-::::xKNWNNNNWWWXKKKKXNWWxcloddddddooc,..         cNNNNNNNNXXXNNXXXXXNX
-::::xKNWNXXKKKKKK0KXNWWWKd:'.......              :NWWWWNNXXKXNXXKKXXXX
-:::;oOKKK000000000000kdxOxdo:'.                  ;KXXXKK0c;l0KK0000000
-::;,;okkkkkkkkkkxxxxo  ':dddol:'.                'x0OxdON:  :xxxdddddo
-</pre></td>
+<td valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
+  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="560">
+</picture>
+</td>
 <td valign="top">
 
 ### `~ my stack`
