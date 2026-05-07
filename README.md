@@ -2,37 +2,30 @@
   github.com/lombazz — profile README
 -->
 
-<table><tr>
-<td valign="top">
+<table width="100%">
+<tr>
+<td align="center" width="50%"><a href="https://www.linkedin.com/in/alessandro-lombardo-/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align="center" width="50%"><a href="https://x.com/lombazzzz"><img src="https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a></td>
+</tr>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
-  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="700">
+  <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
 </picture>
-</td>
-<td valign="top">
 
 ### `~ my stack`
 
+<p>
 <a href="https://www.hubspot.com"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/></a>
-<br><br>
 <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-<br><br>
 <a href="https://www.clay.com"><img src="https://img.shields.io/badge/Clay-4F46E5?style=for-the-badge&logoColor=white" alt="Clay"/></a>
-<br><br>
 <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
-<br><br>
 <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
-<br><br>
 <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
-<br><br>
 <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP%20Servers-7C3AED?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a>
-<br><br>
 <a href="https://www.firecrawl.dev"><img src="https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge&logoColor=white" alt="Firecrawl"/></a>
-</td>
-</tr></table>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lombardo-/)
-[![X](https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lombazzzz)
+</p>
 
 
 ### `~ about me`
