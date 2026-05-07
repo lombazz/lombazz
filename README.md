@@ -2,12 +2,10 @@
   github.com/lombazz — profile README
 -->
 
-<table width="100%">
-<tr>
-<td align="center" width="50%"><a href="https://www.linkedin.com/in/alessandro-lombardo-/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
-<td align="center" width="50%"><a href="https://x.com/lombazzzz"><img src="https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a></td>
-</tr>
-</table>
+<p>
+<a href="https://www.linkedin.com/in/alessandro-lombardo-/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="49.5%"/></a>
+<a href="https://x.com/lombazzzz"><img src="https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" width="49.5%"/></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
