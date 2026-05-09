@@ -22,7 +22,6 @@
 <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
 <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
 <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
-<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP%20Servers-7C3AED?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a>
 <a href="https://www.firecrawl.dev"><img src="https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge&logoColor=white" alt="Firecrawl"/></a>
 </p>
 
