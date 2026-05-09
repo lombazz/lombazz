@@ -16,6 +16,7 @@
 
 <p>
 <a href="https://www.hubspot.com"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/></a>
+<a href="https://www.salesforce.com"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
 <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
 <a href="https://www.clay.com"><img src="https://img.shields.io/badge/Clay-4F46E5?style=for-the-badge&logoColor=white" alt="Clay"/></a>
 <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
