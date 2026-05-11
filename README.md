@@ -78,6 +78,7 @@ gantt
   title A day at work
   dateFormat HH:mm
   axisFormat %H:%M
+  todayMarker off
 
   section Morning
     Lead data tracking      :09:00, 90m
