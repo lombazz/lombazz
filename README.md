@@ -62,23 +62,25 @@ hackathons wins                 ░░░░░░░░░░    3
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{
-  'taskBkgColor':'#58a6ff',
-  'taskBorderColor':'#58a6ff',
-  'taskTextColor':'#ffffff',
-  'taskTextLightColor':'#ffffff',
+  'taskBkgColor':'#39FF14',
+  'taskBorderColor':'#39FF14',
+  'taskTextColor':'#0d1117',
+  'taskTextLightColor':'#0d1117',
+  'taskTextDarkColor':'#0d1117',
   'taskTextOutsideColor':'#39FF14',
+  'critBkgColor':'#FF00FF',
+  'critBorderColor':'#FF00FF',
   'textColor':'#39FF14',
   'titleColor':'#FF00FF',
   'sectionBkgColor':'transparent',
   'altSectionBkgColor':'transparent',
   'gridColor':'#39FF14',
-  'tickColor':'#39FF14'
+  'tickColor':'#39FF14',
+  'todayLineColor':'#FF00FF'
 }}}%%
 gantt
-  title A day at work
   dateFormat HH:mm
   axisFormat %H:%M
-  todayMarker off
 
   section Morning
     Lead data tracking      :09:00, 90m
