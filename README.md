@@ -53,7 +53,7 @@ Random facts   ░░░░░░░░░░  21, Italian, Muay Thai fighter, V
 inbound leads managed / month   ░░░░░░░░░░  5k+
 outbound leads managed / month  ░░░░░░░░░░  4k+
 muay thai fights                ░░░░░░░░░░    4
-hackathons attended             ░░░░░░░░░░   10
+hackathons attended             ░░░░░░░░░░   16
 hackathons wins                 ░░░░░░░░░░    3
 ```
 
