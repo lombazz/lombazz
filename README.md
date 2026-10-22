@@ -23,7 +23,7 @@ alessandro@lombazz:~$ cat ./now.md
 → We're automating research
 
 alessandro@lombazz:~$ cat ./before.md
-→ Built the GTM stack at Augment
+→ Built the GTM stack at <a href="https://augment.org/">Augment</a>
 → Scaled it from 100k → 2.5M monthly revenue
 
 alessandro@lombazz:~$ ls ./off-the-clock
