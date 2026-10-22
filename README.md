@@ -16,15 +16,16 @@
 
 ```console
 alessandro@lombazz:~$ whoami
-→ Alessandro Lombardo · GTM Engineer
+→ Alessandro Lombardo · Operations at Paradigma
 
 alessandro@lombazz:~$ cat ./now.md
-→ Building the GTM stack at Augment
+→ Building the operations layer at Paradigma
+→ We're automating research
+
+alessandro@lombazz:~$ cat ./before.md
+→ Built the GTM stack at Augment
 → Scaled it from 100k → 2.5M monthly revenue
 
 alessandro@lombazz:~$ ls ./off-the-clock
 🇮🇹 italian   🥊 muay-thai-fighter   🔭 vc-scout   🎂 21
-
-alessandro@lombazz:~$ echo $STATUS
-→ shipping automations > writing slides ▌
 ```
