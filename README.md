@@ -27,5 +27,5 @@ alessandro@lombazz:~$ cat ./before.md
 → Scaled it from 100k → 2.5M monthly revenue
 
 alessandro@lombazz:~$ ls ./off-the-clock
-🇮🇹 italian   🥊 muay-thai-fighter   🔭 vc-scout@<a href="https://www.italianfoundersfund.com/">IFF</a>   🎂 21
+🇮🇹 italian   🥊 muay-thai-fighter   🔭 vc-scout @<a href="https://www.italianfoundersfund.com/">IFF</a>   🎂 21
 </pre>
