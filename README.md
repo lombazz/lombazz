@@ -14,9 +14,9 @@
 
 ### `~ about me`
 
-```console
+<pre>
 alessandro@lombazz:~$ whoami
-→ Alessandro Lombardo · Operations at Paradigma
+→ Alessandro Lombardo · Operations at <a href="https://paradigma.inc">Paradigma</a>
 
 alessandro@lombazz:~$ cat ./now.md
 → Building the operations layer at Paradigma
@@ -28,4 +28,4 @@ alessandro@lombazz:~$ cat ./before.md
 
 alessandro@lombazz:~$ ls ./off-the-clock
 🇮🇹 italian   🥊 muay-thai-fighter   🔭 vc-scout   🎂 21
-```
+</pre>
