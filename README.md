@@ -19,7 +19,7 @@ alessandro@lombazz:~$ whoami
 → Alessandro Lombardo · Operations at <a href="https://paradigma.inc">Paradigma</a>
 
 alessandro@lombazz:~$ cat ./now.md
-→ Building the operations layer at Paradigma
+→ Building the operations layer at <a href="https://paradigma.inc">Paradigma</a>
 → We're automating research
 
 alessandro@lombazz:~$ cat ./before.md
@@ -27,5 +27,5 @@ alessandro@lombazz:~$ cat ./before.md
 → Scaled it from 100k → 2.5M monthly revenue
 
 alessandro@lombazz:~$ ls ./off-the-clock
-🇮🇹 italian   🥊 muay-thai-fighter   🔭 vc-scout   🎂 21
+🇮🇹 italian   🥊 muay-thai-fighter   🔭 vc-scout@<a href="https://www.italianfoundersfund.com/">IFF</a>   🎂 21
 </pre>
